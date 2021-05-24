@@ -1,0 +1,206 @@
+body { margin: 0; overflow-x: hidden;overflow-y: auto; position: relative;}
+.nav {
+	/*background-color: blue;*/
+	height: 700px;
+}
+
+.promo {
+	/*background-color: green;*/
+	/*border: 1px white solid;*/
+	display: flex;
+	padding-top: 1em;		
+/*	left:33.33%;
+	right:0;*/
+	/*display: none;*/
+}
+
+.side {
+	/*position: absolute;*/
+	/*background-color: red;*/
+	color:#fff;
+/*	left:0;
+	right:66.67%;*/ /*66.67%*/
+    /*display: none;*/
+
+}
+
+@font-face {
+    font-family: 'univia_probold';
+    src: url('../fonts/univiapro-bold-webfont.woff2') format('woff2'),
+         url('../fonts/univiapro-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'univia_proregular';
+    src: url('../fonts/univiapro-regular-webfont.woff2') format('woff2'),
+         url('../fonts/univiapro-regular-webfont.woff') format('woff'),
+         url('../fonts/univiapro-regular-webfont.ttf') format('tff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'univia_proultra_light';
+    src: url('../fonts/univiapro-ultralight-webfont.woff2') format('woff2'),
+         url('../fonts/univiapro-ultralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bungeehairline';
+    src: url('../fonts/Bungee-Hairline-webfont.woff');
+    src: url('../fonts/Bungee-Hairline-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'bungee_layers_regularregular';
+    src: url('../fonts/BungeeLayers-Regular-webfont.woff');
+    src: url('../fonts/BungeeLayers-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bungee_layersinline';
+    src: url('../fonts/BungeeLayers-Inline-webfont.woff');
+    src: url('../fonts/BungeeLayers-Inline-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bungee_regularregular';
+    src: url('../fonts/Bungee-Regular-webfont.woff');
+    src: url('../fonts/Bungee-Regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bungee_layersshade';
+    src: url('../fonts/BungeeLayers-Shade-webfont.woff');
+    src: url('../fonts/BungeeLayers-Shade-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+			div#loader {
+				font-family: 'bungeehairline','univia_proultra_light';		
+			}
+
+			div#main {
+				color: #fff;
+/*				margin-left: 2em;	
+				margin-right:2em;
+				margin-top: 2em;*/
+				/*height: 100%;*/
+			}
+			div.voteCount {
+				width: 350px;
+				margin-top: 2em;
+				margin-left: 25px;
+				margin-right: 25px;
+				padding-right:30px;
+			}
+			div#promo p {
+				font-family: 'bungee_layersinline','univia_proultra_light';
+				color: white;
+			}
+
+			#voteCount > h1 {
+				font-family: 'bungee_layersinline','univia_proultra_light';
+				font-size: 30px;
+/*				display: block;
+				margin-left: auto;
+				margin-right: auto;*/
+				/*text-align: center;*/
+			}
+
+			#content > table > thead {
+				font-family: 'bungee_layersinline','univia_proultra_light';
+				padding-right: 25px;
+			}
+			#candidatesResults {
+				font-family: 'bungeehairline','univia_proultra_light';		
+			}
+			#content > form > div > label {
+				font-family: 'bungee_layersinline','univia_proultra_light';				
+			}
+			#candidatesSelect {
+				font-family: 'bungeehairline','univia_proultra_light';					
+			}
+			#content > form > button {
+				font-family: 'bungee_layersinline','univia_proultra_light';	
+				font-weight: bold;
+			}
+			#accountAddress {
+				font-family: 'bungeehairline','univia_proultra_light';
+			}
+
+			#accountAddress {
+				font-size:10px;
+			}
+			#candidatesSelect.form-control, 
+			#candidatesSelect > option:nth-child(1),
+			#candidatesSelect > option:nth-child(2) {
+				font-weight: bold;
+				height:40px;
+				padding-top:1px;
+			}
+			.theBox {
+				display: block;
+				border: 1px solid #ffffff;
+				border-radius: 6px;
+				padding:17px;
+				margin: 0 auto;
+				width: 350px;
+				position: relative;
+				top: 100px;
+				/*height: 600px;*/
+
+			}
+			.theBox2 {
+
+				position: relative;	
+				/*border: 1px solid #ffffff;*/
+				height: 215px;
+				padding: 17px;
+				padding-right: 10px;
+				top:175px;
+				/*transform:translateY(50%);*/
+			}
+			#text {
+				display: flex;
+				border: 1px #fff solid;
+				padding: 17px;
+				padding-right: 20px;
+			}
+			#promo > div > div > p:nth-child(1){
+				border-right: 1px #fff solid;
+				padding-right:15px;
+			}
+			.theBox2 p {
+				margin-right: 10px; 
+			}
+			.enteractive {
+				/*width: 100%;*/
+				/*height: 100%;*/
+				/*margin: auto 0;*/
+				/*background-color: #e6e6e6;*/
+				/*display: block;*/
+				/*position: absolute;*/
+			    top: 0%;
+			    left: 0%;
+			    margin-left:0%;
+			    margin-top:0%;
+			    /*border: 2px solid black;*/
+			    /*background-color: white;*/
+			    /*margin-right: +50%;*/
+			    /*transform: translate(50%, 50%)*/
+
+			}
+			form {
+				margin:0 auto;
+
+			}
