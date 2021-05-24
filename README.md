@@ -139,14 +139,14 @@ Project Link: [https://github.com/davoodmood/election-dapp](https://github.com/d
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/davoodmood/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/davoodmood/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/davoodmood/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/davoodmood/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/davoodmood/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/davoodmood/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/davoodmood/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/davoodmood/repo/issues
-[license-shield]: https://img.shields.io/github/license/davoodmood/repo.svg?style=for-the-badge
-[license-url]: https://github.com/davoodmood/repo/blob/master/LICENSE.txt
+[contributors-url]: https://github.com/davoodmood/election-dapp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/davoodmood/election-dapp.svg?style=for-the-badge
+[forks-url]: https://github.com/davoodmood/election-dapp/network/members
+[stars-shield]: https://img.shields.io/github/stars/davoodmood/election-dapp.svg?style=for-the-badge
+[stars-url]: https://github.com/davoodmood/election-dapp/stargazers
+[issues-shield]: https://img.shields.io/github/issues/davoodmood/election-dapp.svg?style=for-the-badge
+[issues-url]: https://github.com/davoodmood/election-dapp/issues
+[license-shield]: https://img.shields.io/github/license/davoodmood/election-dapp.svg?style=for-the-badge
+[license-url]: https://github.com/davoodmood/election-dapp/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/davidmood
