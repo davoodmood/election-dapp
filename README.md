@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/davoodmood/election-dapp">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="assets/images/election-img.png" alt="Logo" width="250" height="331">
   </a>
 
   <h3 align="center">Election Dapp Sample</h3>
@@ -75,7 +75,6 @@ Clone this repo on your local machine.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 This project was build in 2018, and uploaded to github 2021. So you might want to review the code while updating the dependencies to latest, otherwise just install without ...@latest
 * npm
   ```sh
@@ -107,22 +106,21 @@ To test the code:
 ```sh
 npm run test
 ```
-Additionally you need to have [Meta Mask](https://metamask.io/)_ installed to communicate with the EVM, code examples and demos work well in this space. You may also link to more resources.
-Currently project sample is on the Rinkeby Test Network.
+Additionally you need to have [Meta Mask](https://metamask.io/)_ installed to communicate with the EVM.
+Currently sample project is on the Rinkeby Test Network.
 
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
-
+Distributed under the ISC License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
 ## Contact
 
-David H Mood - [@davidmood](https://twitter.com/davidmood) - email
+David H Mood - [@davidmood](https://twitter.com/davidmood) - Send me a message on twitter
 
 Project Link: [https://github.com/davoodmood/election-dapp](https://github.com/davoodmood/election-dapp)
 

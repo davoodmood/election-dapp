@@ -1,1 +1,4 @@
-./truffle.cmd.backup
+truffle.cmd.backup
+node_modules
+package-lock.json
+.gitignore
