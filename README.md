@@ -22,7 +22,7 @@
     This is a Decentralized APP (DAPP), that is being deployed on Rinkeby test network and is based on Ethereum Virtual Machine.
     <br />
     <br />
-    <a href="https://github.com/davoodmood/election-dapp">View Demo</a>
+    <a href="https://voting.recash.tech">View UI Demo</a>
   </p>
 </p>
 
